@@ -14,4 +14,4 @@ Computational Hardness 스터디
 * Week 10 (11/22) - Ch.18 APSP Conjecture (Host: koosaga)
 * Week 11 (11/29) - Ch.20 Lower bounds on Streaming Algorithms (Host: TAMREF)
 * Week 12 (12/6) - Ch.21 Parallel Algorithms (Host: leejseo)
-* Week 13 (12/13) - Ch.12 Counting Problems (Host: koosaga)
+* Week 13 (12/13) - Ch.12 Counting Problems (Host: TAMREF)

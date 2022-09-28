@@ -3,7 +3,7 @@ Computational Hardness 스터디
 
 ## Schedules
 * Week 1 (9/20) - Ch.0 Computational Complexity (Host: TAMREF) [(video)](https://youtu.be/ppL3nn9QuRU)
-* Week 2 (9/27) - Ch.1 SAT and its variants (Host: ainta)
+* Week 2 (9/27) - Ch.1 SAT and its variants (Host: ainta) [(video)](https://youtu.be/cAhClQ4Fhio)
 * Week 3 (10/4) - Ch.2 NP-hardness via SAT and Planar SAT (Host: Karuna)
 * Week 4 (10/11) - Ch.7-8.6 Exponential Time Hypothesis & Parametrized Complexity Part 1 (Host: Aeren)
 * Week 5 (10/18) - Ch.8.7-8.15 Parametrized Complexity Part 2 (Host: Aeren)

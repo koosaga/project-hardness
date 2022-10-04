@@ -1,5 +1,6 @@
 # project-hardness
 Computational Hardness 스터디
+
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLT8wp0ylhRbN8HW67yKlNmkzdzs7MYPQI)
 
 ## Schedules

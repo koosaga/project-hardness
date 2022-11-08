@@ -11,7 +11,7 @@ Computational Hardness 스터디
 * Week 5 (2022/10/18) - Ch.8.7-8.15 Parametrized Complexity Part 2 (Host: Aeren) [(video)](https://youtu.be/zWwsIy7OKf0)
 * Week 6 (2022/10/25) - Ch.9 PCP and Gap Reduction (Host: ainta) [(video)](https://youtu.be/veN4z-TsLf4)
 * Week 7 (2022/11/1) - Ch.10 Inapproximability (Host: koosaga) [(video)](https://youtu.be/sCMwai0ZUdc)
-* Week 8 (2022/11/8) - Ch.11 Unique Games Conjecture (Host: leejseo)
+* Week 8 (2022/11/8) - Ch.11 Unique Games Conjecture (Host: leejseo) [(video)](https://youtu.be/-Mf5nKLEhow)
 * Week 9 (2022/12/6) - Ch.12 Counting Problems (Host: TAMREF)
 * Week 10 (2022/12/13) - Ch.17 3SUM Conjecture (Host: Karuna)
 * Week 11 (2022/12/20) - Ch.18 APSP Conjecture (Host: koosaga)
